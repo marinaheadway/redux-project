@@ -1,21 +1,22 @@
 const dataDishes = [
+  
+    { 
+        id: 1,  
+        price: 50,  
+        img: 'shrimp',  
+        name: 'Shrimp',  
+        category: 'SEAFOOD'
+        },
 
     {
-      id: 1,
+      id: 2,
       price: 25,  
       img: 'pasta',  
       name: 'Pasta',  
       category: 'ITALIAN'  
   },
   
-  {  
-    id: 2,  
-    price: 50,  
-    img: 'shrimp',  
-    name: 'Shrimp',  
-    category: 'SEAFOOD'
-    },
-  
+
   {
     id: 3,  
     price: 30,  
